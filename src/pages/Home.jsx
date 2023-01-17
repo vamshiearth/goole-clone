@@ -27,7 +27,7 @@ const Home = () => {
         />
         <div className='home__inputContainer'>
           {/** Search */}
-          <Search></Search>
+          <Search hideButtons></Search>
         </div>
       </div>
     </div>
